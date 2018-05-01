@@ -1,0 +1,11 @@
+{
+    "name": "vendor/heatmap",
+    "description": "Description of project heatmap.",
+    "authors": [
+        {
+            "name": "SaFaRbIn",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
